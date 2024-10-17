@@ -2,9 +2,6 @@
 
 
 
-
-
-
 > 相关资源：
 > - [Probability - OI Wiki](https://oi-wiki.org/math/probability/basic-conception/) 
 > - [Probability DP - OI Wiki](https://oi-wiki.org/dp/probability/) 
@@ -12,6 +9,41 @@
 > - [信息学一本通 - 期望概率DP - Bilibili](https://www.bilibili.com/video/BV1yA411r7mj/) 
 > - [二助 - 概率/期望dp预习 - Acwing](https://www.acwing.com/blog/content/1723/) 
 > - [RioTian - 动态规划之经典数学期望和概率DP - CnBlogs](https://www.cnblogs.com/RioTian/p/14117154.html) 
+
+
+
+
+
+## Luogu
+
+洛谷上有几道非常经典的概率期望DP题目，作为入门题目，仔细思考推敲，会对概率期望DP有初步的理解。
+
+
+[P2719 搞笑世界杯](https://www.luogu.com.cn/problem/P2719) 
+
+[P1297 [国家集训队] 单选错位](https://www.luogu.com.cn/problem/P1297) 
+
+[P1365 WJMZBMR打osu! / Easy](https://www.luogu.com.cn/problem/P1365) 
+
+
+[P1850 [NOIP2016 提高组] 换教室](https://www.luogu.com.cn/problem/P1850) 
+
+[P4316 绿豆蛙的归宿](https://www.luogu.com.cn/problem/P4316) 
+
+
+
+
+## Lanqiao
+
+蓝桥杯期望DP真题：
+
+[P8774 [蓝桥杯 2022 省 A] 爬树的甲壳虫](https://www.luogu.com.cn/problem/P8774) 
+
+[P8804 [蓝桥杯 2022 国 B] 故障](https://www.luogu.com.cn/problem/P8804) 
+
+[P11045 [蓝桥杯 2024 省 Java B] 最优分组](https://www.luogu.com.cn/problem/P11045) 
+
+[P11046 [蓝桥杯 2024 省 Java B] 星际旅行](https://www.luogu.com.cn/problem/P11046) 
 
 
 
@@ -75,10 +107,3 @@ AtCoder Grand Contest：
 
 
 ---
-
-
-
-
-## Luogu
-
-
