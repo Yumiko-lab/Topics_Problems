@@ -38,6 +38,7 @@ $$
 
 [P4316 绿豆蛙的归宿](https://www.luogu.com.cn/problem/P4316) 
 
+[P6089 [JSOI2015] 非诚勿扰](https://www.luogu.com.cn/problem/P6089) 
 
 
 
