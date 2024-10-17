@@ -12,6 +12,8 @@
 
 
 
+
+
 概率问题可以用 DP 处理的理论基础 —— 线性性质：
 
 $$
@@ -30,6 +32,7 @@ $$
 
 [P1365 WJMZBMR打osu! / Easy](https://www.luogu.com.cn/problem/P1365) 
 
+[P1654 OSU!](https://www.luogu.com.cn/problem/P1654) 
 
 [P1850 [NOIP2016 提高组] 换教室](https://www.luogu.com.cn/problem/P1850) 
 
