@@ -44,8 +44,6 @@ $$
 
 ## Lanqiao
 
-蓝桥杯期望DP真题：
-
 [P8774 [蓝桥杯 2022 省 A] 爬树的甲壳虫](https://www.luogu.com.cn/problem/P8774) 
 
 [P8804 [蓝桥杯 2022 国 B] 故障](https://www.luogu.com.cn/problem/P8804) 
@@ -53,8 +51,6 @@ $$
 [P11045 [蓝桥杯 2024 省 Java B] 最优分组](https://www.luogu.com.cn/problem/P11045) 
 
 [P11046 [蓝桥杯 2024 省 Java B] 星际旅行](https://www.luogu.com.cn/problem/P11046) 
-
-
 
 
 ## Codeforces
@@ -96,6 +92,8 @@ AtCoder Beginner Contest：
 
 
 [ABC323 E - Playlist](https://atcoder.jp/contests/abc323/tasks/abc323_e) 
+
+
 
 
 ---
