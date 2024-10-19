@@ -5,7 +5,7 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    constexpr int M = 200010;
+    constexpr int M = 2000010;
 
     int n;
     cin >> n;
