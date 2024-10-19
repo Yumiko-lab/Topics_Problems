@@ -1,5 +1,6 @@
 # Bitwise Operations
 
+[dls - 第十节：bitset](https://www.youtube.com/watch?v=xrWOrCMVNAQ) 
 
 ## Builtin Function
 
