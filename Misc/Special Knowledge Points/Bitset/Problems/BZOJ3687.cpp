@@ -5,29 +5,22 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    constexpr int M = 3000010;
-
     int n;
     cin >> n;
-    vector<int> a(n);
+    bitset<2000010> f{};
+    f[0] = 1;
     for (int i = 0; i < n; i++) {
-        cin >> a[i];
+        int x;
+        cin >> x;
+        f = f ^ (f << x);
     }
 
-    vector<int> f(M);
-    f[0] = 1;
-    for (auto x : a) {
-        for (int j = M - 1; j >= x; j--) {
-            f[j] ^= f[j - x];
-        }
-    }
     int ans = 0;
-    for (int i = 0; i < M; i++) {
+    for (int i = 1; i <= 2E6; i++) {
         if (f[i]) {
             ans ^= i;
         }
     }
-
     cout << ans << '\n';
 
     return 0;
