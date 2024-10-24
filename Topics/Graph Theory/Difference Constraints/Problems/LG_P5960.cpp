@@ -26,7 +26,7 @@ int main() {
         add(x2, x1, y);
     }
 
-    for (int i = 1; i <= n; i++) {
+    for (int i = 1; i <= n; i++) { // 限制 xi <= 0 的一组解
         add(0, i, 0);
     }
 
