@@ -10,8 +10,8 @@ __builtin_popcount(x) // x 二进制表达式中 1 的个数 (unsigned int)
 
 __builtin_parity(x) // x 二进制表达式中 1 的个数的奇偶性 (unsigned int)
 
-__builtin_ctz(x) // x 二进制表达式中前导 0 的个数 (unsigned int)
-__builtin_clz(x) // x 二进制表达式中末尾 0 的个数 (unsigned int)
+__builtin_clz(x) // x 二进制表达式中前导 0 的个数 (unsigned int)
+__builtin_ctz(x) // x 二进制表达式中末尾 0 的个数 (unsigned int)
 log2(x) = 31 - __builtin_clz(x) = __lg(x)
 ```
 
