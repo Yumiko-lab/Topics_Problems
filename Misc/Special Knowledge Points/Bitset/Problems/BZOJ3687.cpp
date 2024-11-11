@@ -5,6 +5,8 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
+    constexpr int N = 2000010;
+
     int n;
     cin >> n;
     bitset<2000010> f {};

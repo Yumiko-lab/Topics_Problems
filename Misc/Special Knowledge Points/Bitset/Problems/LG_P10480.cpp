@@ -40,7 +40,7 @@ int main() {
 
     topo();
 
-    bitset<30010> f[n]{};
+    bitset<30010> f[n] {};
 
     for (int i = seq.size() - 1; i >= 0; i--) {
         int u = seq[i];
