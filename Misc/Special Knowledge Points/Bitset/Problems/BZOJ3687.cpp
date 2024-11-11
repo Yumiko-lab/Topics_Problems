@@ -7,7 +7,7 @@ int main() {
 
     int n;
     cin >> n;
-    bitset<2000010> f{};
+    bitset<2000010> f {};
     f[0] = 1;
     for (int i = 0; i < n; i++) {
         int x;
