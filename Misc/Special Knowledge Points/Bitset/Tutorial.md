@@ -1,6 +1,6 @@
 # Bitwise Operations
 
-[dls - 第十节：bitset](https://www.youtube.com/watch?v=xrWOrCMVNAQ) 
+[dls - 第十节：bitset - Misc](https://www.youtube.com/watch?v=xrWOrCMVNAQ) 
 
 ## Builtin Function
 
@@ -10,12 +10,12 @@ __builtin_popcount(x) // x 二进制表达式中 1 的个数 (unsigned int)
 
 __builtin_parity(x) // x 二进制表达式中 1 的个数的奇偶性 (unsigned int)
 
-__builtin_clz(x) // x 二进制表达式中前导 0 的个数 (unsigned int)
 __builtin_ctz(x) // x 二进制表达式中末尾 0 的个数 (unsigned int)
+__builtin_clz(x) // x 二进制表达式中前导 0 的个数 (unsigned int)
 log2(x) = 31 - __builtin_clz(x) = __lg(x)
 ```
 
-( 以上所有 C++ 内置 `builtin` 函数的时间复杂度都是 $\mathcal{O(1)}$ 的 )
+( 以上所有 C++ 内置 builtin 函数的时间复杂度都是 $\mathcal{O(1)}$ 的 )
 
 > 形如 `__builtin_..` 在末尾加上 `ll` 都表示 `unsigned long long`
 
@@ -62,24 +62,24 @@ bitset<1000> a = bool a[1000] // 长度为 1000 的 bool 数组
 1. `.set(x)`：把第 $x$ 位变成 $1$ 
 2. `.set()`：把所有位变成 $1$ 
 3. `.reset(x)`：把第 $x$ 位变成 $0$ 
-4. `.reset()`：把所有位变成 $0$ ( 类似 `clear()` )
+4. **`.reset()`：把所有位变成 $0$ ( 类似 `clear()` )**
 5. `.flip(x)`；把第 $x$ 位反转 ( $0 \rightarrow 1, 1 \rightarrow 0$ )
 6. `.flip()`：把所有位反转
 
-( `set(x)` 和 `reset(x)` 和下标遍历直接赋值几乎没有区别 )
+( `set(x)` 和 `reset(x)` 以及 `flip(x)` 和下标遍历直接赋值几乎没有区别 )
 
 
 特殊成员函数：
 
-1. `._Find_first()`：
-2. `.Find_next()`：
+1. `._Find_first()`：从低位开始找第一个等于 $1$ 的位置
+2. `.Find_next(i)`：从 $i$ 往高位找下一个 $1$ 的位置 ( 找不到范围 bitset 的最大范围 )
 
 > 注意这两个函数 Mac 系统里没有，但 Codeforces 里有。
 
 用法：
 
 ```cpp
-for (int i = b._Find_first(); i != b.size(); i = b._Find_next()) {
+for (int i = B._Find_first(); i != B.size(); i = B._Find_next(i)) {
     cout << i << ' ';
 }
 ```
@@ -87,4 +87,21 @@ for (int i = b._Find_first(); i != b.size(); i = b._Find_next()) {
 
 
 以上成员函数时间复杂度都是 $\mathcal{O(\dfrac nw)}$。
+
+
+
+比较流氓的写法 ( 不常用 )：
+
+```cpp
+bitset<N> a;
+
+auto pa = (ull*)&a; // pa = bitset a 的地址
+
+cout << pa[0] << '\n';
+```
+
+`pa` 可以当作 `ull` 数组使用。
+
+
+
 
