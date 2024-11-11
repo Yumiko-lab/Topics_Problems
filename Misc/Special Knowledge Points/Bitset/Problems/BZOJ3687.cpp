@@ -14,7 +14,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         int x;
         cin >> x;
-        f = f ^ (f << x);
+        f = f ^ (f << x); // f[i][j] = f[i - 1][j] ^ f[i - 1][j - x];
     }
 
     int ans = 0;

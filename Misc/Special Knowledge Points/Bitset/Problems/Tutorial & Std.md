@@ -24,7 +24,7 @@ $$
 
 bitset 优化 —— 
 
-首先 $f$ 数组首先优化掉第一维，然后第二位用 bitset 代替。
+首先 $f$ 数组首先优化掉第一维，然后第二维用 bitset 代替。
 
 
 时空复杂度：$\mathcal O(\dfrac {n \times \sum a_i}{w})$。
@@ -62,4 +62,84 @@ int main() {
 
     return 0;
 }
+```
+
+
+## LG P10480 可达性统计
+
+```cpp
+#include <bits/stdc++.h>
+#include <bitset>
+using namespace std;
+
+constexpr int N = 30010;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int n, m;
+    cin >> n >> m;
+    vector<vector<int>> adj(n);
+    vector<int> ind(n);
+    for (int i = 0; i < m; i++) {
+        int u, v;
+        cin >> u >> v;
+        u--, v--;
+        adj[u].emplace_back(v);
+        ind[v]++;
+    }
+
+    vector<int> seq;
+    auto topo = [&]() {
+        queue<int> q;
+        for (int i = 0; i < n; i++) {
+            if (ind[i] == 0) {
+                q.emplace(i);
+            }
+        }
+        while (!q.empty()) {
+            auto u = q.front();
+            q.pop();
+            seq.emplace_back(u);
+            for (auto v : adj[u]) {
+                if (--ind[v] == 0) {
+                    q.emplace(v);
+                }
+            }
+        }
+    };
+
+    topo();
+
+    bitset<N> f[n] {};
+
+    for (int i = seq.size() - 1; i >= 0; i--) {
+        int u = seq[i];
+        f[u][u] = 1;
+        for (auto v : adj[u]) {
+            f[u] |= f[v];
+        }
+    }
+
+    for (int i = 0; i < n; i++) {
+        cout << f[i].count() << '\n';
+    }
+
+    return 0;
+}
+```
+
+## BZOJ 4503 两个串
+
+> Description：
+>
+> 给定两个串 $S$ 和 $T$，求 $T$ 在 $S$ 中出现了几次，分别在哪些位置出现。
+
+
+
+
+
+```cpp
+
 ```
