@@ -9,17 +9,17 @@ int main() {
 
     int n;
     cin >> n;
-    bitset<N> dp {};
-    dp[0] = 1;
+    bitset<N> f {};
+    f[0] = 1;
     for (int i = 0; i < n; i++) {
         int x;
         cin >> x;
-        dp = dp ^ (dp << x);
+        f = f ^ (f << x);
     }
 
     int ans = 0;
     for (int i = 1; i <= 2E6; i++) {
-        if (dp[i]) {
+        if (f[i]) {
             ans ^= i;
         }
     }
