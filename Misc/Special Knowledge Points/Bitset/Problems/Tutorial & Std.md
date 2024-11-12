@@ -164,6 +164,13 @@ KMP 无法解决通配符问题
 > 正解并不是 bitset，但是可以用 bitset 水过。
 
 
+经典的 01 背包，但是直接做复杂度是 $\mathcal O(nm)$ 会超时。
+
+对于某个数 $x$，可以只选 $x$，或者把前面的所有方案都加上 $x$ (即左移 $x$ 位)，左移超过 $m$ 位的部分需要需要减去 $m$，相当于左移 $x$ 位再右移 $m$ 位，即右移 $m - x$ 位。
+
+
+
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -191,3 +198,4 @@ int main() {
     return 0;
 }
 ```
+
