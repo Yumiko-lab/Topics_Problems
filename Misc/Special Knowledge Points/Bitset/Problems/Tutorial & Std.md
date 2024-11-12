@@ -132,12 +132,14 @@ int main() {
 
 ## BZOJ 4503 两个串
 
+[BZOJ P4503. 两个串](https://hydro.ac/p/bzoj-P4503) 
+
 > Description：
 >
 > 给定两个串 $S$ 和 $T$，求 $T$ 在 $S$ 中出现了几次，分别在哪些位置出现。
 
 
-
+KMP 无法解决通配符问题
 
 
 ```cpp
