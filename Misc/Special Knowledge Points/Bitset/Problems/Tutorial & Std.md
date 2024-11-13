@@ -213,6 +213,13 @@ int main() {
 > - $1 \le m \le 500$，$1 \le n \le 5000$
 
 
+[SK7 - Codeforces 1826E. E. Walk the Runway - Acwing](https://www.acwing.com/solution/content/187667/) 
+
+[0x3F - bitset 优化 DP 计算几何【Codeforces #870】 - Bilibili](https://www.bilibili.com/video/BV1aM4y1b7L9/) 
+
+
+
+
 显然有一个朴素的做法 —— 类比 LIS，直接暴力转移，时间复杂度：$\mathcal O(n^2 \times m)$，超时。
 
 
@@ -281,6 +288,51 @@ int main() {
 
     cout << *max_element(dp.begin(), dp.end()) << '\n';
     
+    return 0;
+}
+```
+
+## Gym100342J Triatrip 
+
+[Triatrip  - Gym - 100342J](https://vjudge.net/problem/Gym-100342J) 
+
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using i64 = long long;
+
+constexpr int N = 1510;
+
+int n;
+char s[N][N];
+bitset<N> in[N], out[N];
+
+int main() {
+    freopen("triatrip.in", "r", stdin);
+    freopen("triatrip.out", "w", stdout);
+
+    cin >> n;
+    for (int i = 0; i < n; i++) {
+        cin >> s[i];
+        for (int j = 0; j < n; j++) { // i -> j
+            if (s[i][j] == '+') {
+                out[i][j] = 1;
+                in[j][i] = 1;
+            }
+        }
+    }
+
+    i64 ans = 0;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (s[i][j] == '+') { // 遍历所有边
+                ans += (in[i] & out[j]).count();
+            }
+        }
+    }
+    cout << ans / 3 << '\n';
+
     return 0;
 }
 ```
