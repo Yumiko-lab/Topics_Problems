@@ -296,6 +296,11 @@ int main() {
 
 [Triatrip  - Gym - 100342J](https://vjudge.net/problem/Gym-100342J) 
 
+[悠悠呦~ - Gym 100342J Triatrip (求三元环的数量) (bitset优化) - Cnblogs](https://www.cnblogs.com/00isok/p/10492478.html) 
+
+[lunch__ - codeforces ASC28J 三元环计数 - CSDN](https://blog.csdn.net/lunch__/article/details/82224428) 
+
+
 
 ```cpp
 #include <bits/stdc++.h>
