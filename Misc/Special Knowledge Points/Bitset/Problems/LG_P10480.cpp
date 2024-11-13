@@ -42,7 +42,7 @@ int main() {
 
     topo();
 
-    bitset<N> f[n] {};
+    bitset<N> f[n]{};
 
     for (int i = seq.size() - 1; i >= 0; i--) {
         int u = seq[i];

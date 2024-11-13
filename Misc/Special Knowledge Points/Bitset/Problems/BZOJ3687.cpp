@@ -9,7 +9,7 @@ int main() {
 
     int n;
     cin >> n;
-    bitset<N> f {};
+    bitset<N> f{};
     f[0] = 1;
     for (int i = 0; i < n; i++) {
         int x;

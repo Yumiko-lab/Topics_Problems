@@ -10,7 +10,7 @@ int main() {
     int n, m;
     cin >> n >> m;
 
-    bitset<N> f {};
+    bitset<N> f{};
     for (int i = 0; i < n; i++) {
         int x;
         cin >> x;
