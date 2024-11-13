@@ -27,6 +27,10 @@ log2(x) = 31 - __builtin_clz(x) = __lg(x)
 > - [喵喵喵喵子 - C++ std::bitset 用法 - Blog - Acwing](https://www.acwing.com/blog/content/18626/) 
 > - [OI Wiki - bitset](https://oi-wiki.org/lang/csl/bitset/) 
 > - [anthony1314 - C++ bitset用法 - NowCoder](https://blog.nowcoder.net/n/45218f11e93842788069886a6d097484) 
+> - [一扶苏一 - 扶苏的bitset浅谈 - Luogu](https://www.luogu.com.cn/article/osrhh40p) 
+
+
+
 
 
 
@@ -106,9 +110,5 @@ cout << pa[0] << '\n';
 
 ### Bitset 可优化问题
 
-1. DP 问题中，状态数组是 bool
+1. DP 问题中，状态数组是 bool (例如布尔背包)
 2. 需要做大量的集合取交集，并集的操作。
-
-
-
-

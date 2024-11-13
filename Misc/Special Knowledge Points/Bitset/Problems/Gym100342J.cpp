@@ -6,7 +6,7 @@ constexpr int N = 1510;
 
 int n;
 char s[N][N];
-bitset<N> in[N], out[N];
+bitset<N> out[N], in[N]; // out[i]: 从 i 出发能遍历到的点的集合, in[i]: 可以遍历到 i 的点的集合
 
 int main() {
     // freopen("triatrip.in", "r", stdin);
