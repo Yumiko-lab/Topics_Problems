@@ -21,3 +21,12 @@
 
 
 
+# 待刷题单
+
+
+李哥的构造题题单：
+
+[constructive marathon(div. 1)](https://codeforces.com/contests/412155) 
+
+[constructive marathon(div. 2)](https://codeforces.com/contests/413091) 
+
