@@ -21,6 +21,21 @@
 
 
 
+
+# 算法学习
+
+[罗勇军<<算法竞赛>>配套题单 - Athanasy](https://www.luogu.com.cn/training/441063#information) 
+
+[《算法竞赛进阶指南》打卡活动 - Acwing](https://www.acwing.com/activity/content/6/) 
+
+[USACO Training辅导课 - Acwing](https://www.acwing.com/activity/content/36/) 
+
+
+
+
+
+
+
 # 待刷题单
 
 
@@ -50,7 +65,21 @@ CCF-CSP (0 ~ 23)
 
 [CCF-CSP认证辅导课 - Acwing](https://www.acwing.com/activity/content/39/) 
 
+[CSP-S 辅导课 - Acwing](https://www.acwing.com/activity/content/3444/) 
+
+
+
 ExtractStars 的题单：
 
 [ExtractStars](https://vjudge.net/user/ExtractStars) 
+
+
+SpeedStar 的题单：
+
+[SpeedStar - Acwing](https://www.acwing.com/user/myspace/blog/7340/) 
+
+
+百度之星题单：
+
+[2005年-2024年百度之星题集](https://www.matiji.net/exam/baiduzhixing) 
 
