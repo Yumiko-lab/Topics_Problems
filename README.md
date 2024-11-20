@@ -194,7 +194,7 @@ SpeedStar 的题单：
 
 
 
-[构造题专项训练 - Luogu](https://www.luogu.com.cn/training/14#information) 
+[构造题专项训练 - Luogu](https://www.luogu.com.cn/training/14) 
 
 
 
