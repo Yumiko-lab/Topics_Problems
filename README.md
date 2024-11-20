@@ -39,6 +39,21 @@
 # 待刷题单
 
 
+
+CCF-CSP (0 ~ 23)：
+
+[CCF-CSP认证辅导课 - Acwing](https://www.acwing.com/activity/content/39/) 
+
+
+CSP-S (2003 - 2022)：
+
+[CSP-S 辅导课 - Acwing](https://www.acwing.com/activity/content/3444/) 
+
+
+---
+
+
+
 李哥的构造题题单：
 
 [constructive marathon(div. 1)](https://codeforces.com/contests/412155) 
@@ -50,10 +65,15 @@
 
 [人生必做题，让你成为见解独特的黑马选手](https://www.luogu.com.cn/training/597983#problems) 
 
+---
+
 
 灵茶山艾府每日一题 ( >= 2400 ：24 + 12 + 23 + 5)：
 
 [灵茶の试炼](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2) 
+
+
+---
 
 
 某一个人の题单大全：
@@ -61,12 +81,7 @@
 [某一个人の题单大全](https://zhuanlan.zhihu.com/p/716449304) 
 
 
-CCF-CSP (0 ~ 23)
-
-[CCF-CSP认证辅导课 - Acwing](https://www.acwing.com/activity/content/39/) 
-
-[CSP-S 辅导课 - Acwing](https://www.acwing.com/activity/content/3444/) 
-
+---
 
 
 ExtractStars 的题单：
@@ -78,8 +93,49 @@ SpeedStar 的题单：
 
 [SpeedStar - Acwing](https://www.acwing.com/user/myspace/blog/7340/) 
 
+---
+
+
+
 
 百度之星题单：
 
 [2005年-2024年百度之星题集](https://www.matiji.net/exam/baiduzhixing) 
+
+
+---
+
+
+
+[构造题专项训练 - Luogu](https://www.luogu.com.cn/training/14#information) 
+
+
+
+---
+
+DP 题单：
+
+[新手动态规划合集 - Luogu](https://www.luogu.com.cn/training/1060) 
+
+[背包问题（简单） - Luogu](https://www.luogu.com.cn/training/8917) 
+
+[背包问题 - Luogu](https://www.luogu.com.cn/training/5197) 
+
+[xzy的树形dp题单 - Luogu](https://www.luogu.com.cn/training/11363) 
+
+
+
+[【动态规划】普及~省选的dp题 - Luogu](https://www.luogu.com.cn/training/1435) 
+
+[【动态规划】提高组的DP问候 - Luogu](https://www.luogu.com.cn/training/12927) 
+
+[面向tg选手的DP练习题 - Luogu](https://www.luogu.com.cn/training/1323) 
+
+
+[codeforces 2000左右的dp题 - Luogu](https://www.luogu.com.cn/training/3963) 
+
+[codeforces 2100左右的dp题 - Luogu](https://www.luogu.com.cn/training/3961) 
+
+[动态规划进阶 - Luogu](https://www.luogu.com.cn/training/3045) 
+
 
