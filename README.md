@@ -3,7 +3,7 @@
 # 算法专题练习
 
 
-**算法题分类**：
+## 算法题分类
 
 
 - 搜索：
@@ -57,9 +57,9 @@
        5.  矩阵快速幂加速递推
 
 
-
-
 ( 可以用 LeetCode 复习，搭配灵茶山艾府整理的力扣题单 )
+
+
 
 - 图论
 
@@ -151,6 +151,7 @@
 [USACO Training辅导课 - Acwing](https://www.acwing.com/activity/content/36/) 
 
 
+[清华算协暑期培训](https://www.bilibili.com/video/BV15d4y1U7HH/) 
 
 
 
