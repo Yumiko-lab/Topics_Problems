@@ -2,6 +2,8 @@ TODO:
 
 1. VSCode C++ 配置 + 调试
 2. Sublime Text 4 C++ 配置 + 调试
+3. Windows 和 Linux 环境下 C++ 对拍
+4. 银牌算法模板整理
 
 
 
