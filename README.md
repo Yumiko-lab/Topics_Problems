@@ -15,9 +15,22 @@ TODO:
 
 [_重装小兔19C - 完美配置vscode运行c/c++环境，2022最新教程 - Bilibili](https://www.bilibili.com/video/BV1ge4y1J72t/) 
 
+[Resot - 【竞赛工具】——vscode xcpc竞赛向配置教程 - Zhihu](https://zhuanlan.zhihu.com/p/705969825) 
+
+[OI Wiki - VSCode](https://oi-wiki.org/tools/editor/vscode/) 
+
+[dianhsu - 如何打造一个舒适的算法竞赛编程环境 - Cnblogs](https://www.dianhsu.com/2023/12/30/algorithm-env/) 
+
+[RioTian - Windows VS Code 配置 C/C++ 开发环境 - Cnblogs](https://www.cnblogs.com/RioTian/p/13812319.html) 
+
 ---
 
 [Kiyuim - 如何拥有jiangly蒋老师同款编译器(sublime c++配置 竞赛向） - Bilibili](https://www.bilibili.com/video/BV1qV411c7VL/) 
+
+[Resot - 【竞赛工具】——sublime text4 xcpc竞赛向配置教程 - Zhihu](https://zhuanlan.zhihu.com/p/702816564) 
+
+[OI Wiki - Sublime Text](https://oi-wiki.org/tools/editor/sublime/) 
+
 
 ---
 
