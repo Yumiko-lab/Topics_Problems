@@ -5,6 +5,7 @@ TODO:
 3. Windows 和 Linux 环境下 C++ 对拍
 4. 银牌算法模板整理
 
+---
 
 [五街教授 - 彻底搞懂vscode中配置c/c++环境，实现编译和调试以及远程linux - Bilibili](https://www.bilibili.com/video/BV1Bc411S7ch/) 
 
@@ -14,7 +15,11 @@ TODO:
 
 [_重装小兔19C - 完美配置vscode运行c/c++环境，2022最新教程 - Bilibili](https://www.bilibili.com/video/BV1ge4y1J72t/) 
 
+---
 
+[Kiyuim - 如何拥有jiangly蒋老师同款编译器(sublime c++配置 竞赛向） - Bilibili](https://www.bilibili.com/video/BV1qV411c7VL/) 
+
+---
 
 
 # 算法专题练习
