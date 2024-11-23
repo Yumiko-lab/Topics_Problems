@@ -182,7 +182,7 @@ CSP-S (2003 - 2022)：
 
 李哥的人生必做题题单：
 
-[人生必做题，让你成为见解独特的黑马选手](https://www.luogu.com.cn/training/597983#problems) 
+[人生必做题，让你成为见解独特的黑马选手](https://www.luogu.com.cn/training/597983) 
 
 ---
 
