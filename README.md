@@ -6,6 +6,16 @@ TODO:
 4. 银牌算法模板整理
 
 
+[五街教授 - 彻底搞懂vscode中配置c/c++环境，实现编译和调试以及远程linux - Bilibili](https://www.bilibili.com/video/BV1Bc411S7ch/) 
+
+[改BUG的TOM学长 - vscode安装配置c/c++教程 - Bilibili](https://www.bilibili.com/video/BV1BQ4y1j7fY/) 
+
+[GKxxISCAS - 关于搭环境（C/C++编译器和VSCode的安装、配置） - Bilibili](https://www.bilibili.com/video/BV1id4y1n7Kw/) 
+
+[_重装小兔19C - 完美配置vscode运行c/c++环境，2022最新教程 - Bilibili](https://www.bilibili.com/video/BV1ge4y1J72t/) 
+
+
+
 
 # 算法专题练习
 
