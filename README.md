@@ -1,3 +1,9 @@
+TODO: 
+
+1. VSCode C++ 配置 + 调试
+2. Sublime Text 4 C++ 配置 + 调试
+3. Windows 和 Linux 环境下 C++ 对拍
+4. 银牌算法模板整理
 
 ---
 
@@ -216,7 +222,7 @@ CSP-S (2003 - 2022)：
 ---
 
 
-灵茶山艾府每日一题
+灵茶山艾府每日一题 ( >= 2400 ：24 + 12 + 23 + 5)：
 
 [灵茶の试炼](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2) 
 
