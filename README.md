@@ -42,6 +42,9 @@ C++ 语法：
 
 [OI Wiki - Sublime Text](https://oi-wiki.org/tools/editor/sublime/) 
 
+[whoammiiiiii - sublime配置c++环境 X 算法竞赛 - CSDN](https://blog.csdn.net/qq_43555854/article/details/111644632) 
+
+[Fr1nGeLove - sublime配置c++环境 X 算法竞赛 - CSDN](https://blog.csdn.net/Fr1nGeLove/article/details/140684507) 
 
 ---
 
