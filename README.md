@@ -227,10 +227,9 @@ C++ 语法：
 
 # 算法学习
 
-Acwing：
+## Acwing：
 
 算法学习：
-
 1. [算法基础课](https://www.acwing.com/activity/content/11/) 
 2. [考研408-数据结构（笔试）](https://www.acwing.com/activity/content/48/) 
 3. [考研408-数据结构（上机）](https://www.acwing.com/activity/content/3343/) 
@@ -244,8 +243,13 @@ Acwing：
 11. [CCF-CSP认证辅导课](https://www.acwing.com/activity/content/39/) 
 
 
-项目学习：
+刷题：
+1. [USACO月赛打卡活动](https://www.acwing.com/activity/content/89/) 
+2. [kuangbin专题打卡活动](https://www.acwing.com/activity/content/90/) 
+3. [每日一题 - 2021 ~ 2024](chrome://bookmarks/?id=453) 
 
+
+项目学习：
 1. [Java语法基础课](https://www.acwing.com/activity/content/2230/) 
 2. [Linux基础课](https://www.acwing.com/activity/content/57/) 
 3. [Django框架课](https://www.acwing.com/activity/content/72/) 
