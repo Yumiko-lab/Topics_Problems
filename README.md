@@ -44,7 +44,7 @@ C++ 语法：
 
 [whoammiiiiii - sublime配置c++环境 X 算法竞赛 - CSDN](https://blog.csdn.net/qq_43555854/article/details/111644632) 
 
-[Fr1nGeLove - sublime配置c++环境 X 算法竞赛 - CSDN](https://blog.csdn.net/Fr1nGeLove/article/details/140684507) 
+[Fr1nGeLove - 算法竞赛数据生成及使用Sublime对拍 - CSDN](https://blog.csdn.net/Fr1nGeLove/article/details/140684507) 
 
 ---
 
@@ -226,6 +226,36 @@ C++ 语法：
 
 
 # 算法学习
+
+Acwing：
+
+算法学习：
+
+1. [算法基础课](https://www.acwing.com/activity/content/11/) 
+2. [考研408-数据结构（笔试）](https://www.acwing.com/activity/content/48/) 
+3. [PAT甲级辅导课](https://www.acwing.com/activity/content/27/) 
+4. [蓝桥杯辅导课](https://www.acwing.com/activity/content/19/) 
+5. [LeetCode究极班](https://www.acwing.com/activity/content/31/) 
+6. [算法提高课](https://www.acwing.com/activity/content/16/) 
+7. [CSP-S 辅导课](https://www.acwing.com/activity/content/3444/) 
+8. [算法进阶课](https://www.acwing.com/activity/content/32/) 
+9. [USACO Training辅导课](https://www.acwing.com/activity/content/36/) 
+10. [CCF-CSP认证辅导课](https://www.acwing.com/activity/content/39/) 
+
+
+项目学习：
+
+1. [Java语法基础课](https://www.acwing.com/activity/content/2230/) 
+2. [Linux基础课](https://www.acwing.com/activity/content/57/) 
+3. [Django框架课](https://www.acwing.com/activity/content/72/) 
+4. [Web应用课](https://www.acwing.com/activity/content/1150/) 
+
+
+
+
+[Python基础课](https://studio.youtube.com/playlist/PLZjK0Hj8Fi-18M4TD7cbiCzjtxqTLIe_6/videos) 
+
+
 
 - [罗勇军<<算法竞赛>>配套题单 - Athanasy](https://www.luogu.com.cn/training/441063#information) 
 - [《算法竞赛进阶指南》打卡活动 - Acwing](https://www.acwing.com/activity/content/6/) 
