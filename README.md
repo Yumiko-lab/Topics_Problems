@@ -287,20 +287,6 @@ Python：
 
 ---
 
-**CSP——**
-
-CCF-CSP (0 ~ 23)：
-
-- [CCF-CSP认证辅导课 - Acwing](https://www.acwing.com/activity/content/39/) 
-
-
-CSP-S (2003 - 2022)：
-
-- [CSP-S 辅导课 - Acwing](https://www.acwing.com/activity/content/3444/) 
-
-
----
-
 **各路选手的题单——**
 
 李哥的构造题题单：
