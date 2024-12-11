@@ -1,10 +1,4 @@
 
-C++ 语法：
-
-1. [清华算协暑期培训 第一讲 C++梳理](https://www.bilibili.com/video/BV15d4y1U7HH/) 
-2. [黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难](https://www.bilibili.com/video/BV1et411b73Z/) 
-
-
 
 ---
 
@@ -213,51 +207,6 @@ C++ 语法：
 -----
 
 
-
-
-# 资源整理
-
-## Acwing：
-
-算法学习：
-1. [算法基础课](https://www.acwing.com/activity/content/11/) 
-2. [考研408-数据结构（笔试）](https://www.acwing.com/activity/content/48/) 
-3. [考研408-数据结构（上机）](https://www.acwing.com/activity/content/3343/) 
-4. [PAT甲级辅导课](https://www.acwing.com/activity/content/27/) 
-5. [蓝桥杯辅导课](https://www.acwing.com/activity/content/19/) 
-6. [LeetCode究极班](https://www.acwing.com/activity/content/31/) 
-7. [算法提高课](https://www.acwing.com/activity/content/16/) 
-8. [CSP-S 辅导课](https://www.acwing.com/activity/content/3444/) 
-9. [算法进阶课](https://www.acwing.com/activity/content/32/) 
-10. [USACO Training辅导课](https://www.acwing.com/activity/content/36/) 
-11. [CCF-CSP认证辅导课](https://www.acwing.com/activity/content/39/) 
-
-
-刷题：
-1. [USACO月赛打卡活动](https://www.acwing.com/activity/content/89/) 
-2. [kuangbin专题打卡活动](https://www.acwing.com/activity/content/90/) 
-3. [每日一题 - 2021 ~ 2024]：chrome://bookmarks/?id=453
-
-
-项目学习：
-1. [Java语法基础课](https://www.acwing.com/activity/content/2230/) 
-2. [Linux基础课](https://www.acwing.com/activity/content/57/) 
-3. [Django框架课](https://www.acwing.com/activity/content/72/) 
-4. [Web应用课](https://www.acwing.com/activity/content/1150/) 
-
-
-Python：
-
-- [Python基础课](https://studio.youtube.com/playlist/PLZjK0Hj8Fi-18M4TD7cbiCzjtxqTLIe_6/videos) 
-
-
-
-## Bilibili
-
-[清华算协暑期培训](https://www.bilibili.com/video/BV15d4y1U7HH/) 
-
-
-
 # 待刷题单
 
 ---
@@ -340,3 +289,59 @@ SpeedStar 的题单：
 - [codeforces 2000左右的dp题 - Luogu](https://www.luogu.com.cn/training/3963) 
 - [codeforces 2100左右的dp题 - Luogu](https://www.luogu.com.cn/training/3961) 
 - [动态规划进阶 - Luogu](https://www.luogu.com.cn/training/3045) 
+
+
+
+# 资源整理
+
+## Bilibili
+
+**语言学习——**
+
+Cpp：
+
+1. [黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难](https://www.bilibili.com/video/BV1et411b73Z/) 
+2. [清华算协暑期培训 第一讲 C++梳理](https://www.bilibili.com/video/BV15d4y1U7HH/) 
+
+
+
+**算法学习——**
+
+1. [清华算协暑期培训](https://www.bilibili.com/video/BV15d4y1U7HH/) 
+
+
+
+## Acwing
+
+算法学习：
+1. [算法基础课](https://www.acwing.com/activity/content/11/) 
+2. [考研408-数据结构（笔试）](https://www.acwing.com/activity/content/48/) 
+3. [考研408-数据结构（上机）](https://www.acwing.com/activity/content/3343/) 
+4. [PAT甲级辅导课](https://www.acwing.com/activity/content/27/) 
+5. [蓝桥杯辅导课](https://www.acwing.com/activity/content/19/) 
+6. [LeetCode究极班](https://www.acwing.com/activity/content/31/) 
+7. [算法提高课](https://www.acwing.com/activity/content/16/) 
+8. [CSP-S 辅导课](https://www.acwing.com/activity/content/3444/) 
+9. [算法进阶课](https://www.acwing.com/activity/content/32/) 
+10. [USACO Training辅导课](https://www.acwing.com/activity/content/36/) 
+11. [CCF-CSP认证辅导课](https://www.acwing.com/activity/content/39/) 
+
+
+刷题：
+1. [USACO月赛打卡活动](https://www.acwing.com/activity/content/89/) 
+2. [kuangbin专题打卡活动](https://www.acwing.com/activity/content/90/) 
+3. [每日一题 - 2021 ~ 2024]：chrome://bookmarks/?id=453
+
+
+项目学习：
+1. [Java语法基础课](https://www.acwing.com/activity/content/2230/) 
+2. [Linux基础课](https://www.acwing.com/activity/content/57/) 
+3. [Django框架课](https://www.acwing.com/activity/content/72/) 
+4. [Web应用课](https://www.acwing.com/activity/content/1150/) 
+
+
+Python：
+
+1. [Python基础课](https://studio.youtube.com/playlist/PLZjK0Hj8Fi-18M4TD7cbiCzjtxqTLIe_6/videos) 
+
+
