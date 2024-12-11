@@ -236,7 +236,7 @@ C++ 语法：
 刷题：
 1. [USACO月赛打卡活动](https://www.acwing.com/activity/content/89/) 
 2. [kuangbin专题打卡活动](https://www.acwing.com/activity/content/90/) 
-3. [每日一题 - 2021 ~ 2024](chrome://bookmarks/?id=453) 
+3. [每日一题 - 2021 ~ 2024]：chrome://bookmarks/?id=453
 
 
 项目学习：
