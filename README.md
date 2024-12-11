@@ -233,14 +233,15 @@ Acwing：
 
 1. [算法基础课](https://www.acwing.com/activity/content/11/) 
 2. [考研408-数据结构（笔试）](https://www.acwing.com/activity/content/48/) 
-3. [PAT甲级辅导课](https://www.acwing.com/activity/content/27/) 
-4. [蓝桥杯辅导课](https://www.acwing.com/activity/content/19/) 
-5. [LeetCode究极班](https://www.acwing.com/activity/content/31/) 
-6. [算法提高课](https://www.acwing.com/activity/content/16/) 
-7. [CSP-S 辅导课](https://www.acwing.com/activity/content/3444/) 
-8. [算法进阶课](https://www.acwing.com/activity/content/32/) 
-9. [USACO Training辅导课](https://www.acwing.com/activity/content/36/) 
-10. [CCF-CSP认证辅导课](https://www.acwing.com/activity/content/39/) 
+3. [考研408-数据结构（上机）](https://www.acwing.com/activity/content/3343/) 
+4. [PAT甲级辅导课](https://www.acwing.com/activity/content/27/) 
+5. [蓝桥杯辅导课](https://www.acwing.com/activity/content/19/) 
+6. [LeetCode究极班](https://www.acwing.com/activity/content/31/) 
+7. [算法提高课](https://www.acwing.com/activity/content/16/) 
+8. [CSP-S 辅导课](https://www.acwing.com/activity/content/3444/) 
+9. [算法进阶课](https://www.acwing.com/activity/content/32/) 
+10. [USACO Training辅导课](https://www.acwing.com/activity/content/36/) 
+11. [CCF-CSP认证辅导课](https://www.acwing.com/activity/content/39/) 
 
 
 项目学习：
