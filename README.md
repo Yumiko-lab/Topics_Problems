@@ -1,18 +1,8 @@
-TODO: 
-
-1. VSCode C++ 配置 + 调试
-2. Sublime Text 4 C++ 配置 + 调试
-3. Windows 和 Linux 环境下 C++ 对拍
-4. 银牌算法模板整理
-
 
 C++ 语法：
 
-1. 泛型编程 —— 模板
-   1. [清华算协暑期培训 第一讲 C++梳理](https://www.bilibili.com/video/BV15d4y1U7HH/): 00:44:00
-   2. [黑马程序员 - 模板](https://www.bilibili.com/video/BV1et411b73Z/?vd_source=5e53118bdffba34d123bb97d9a7caf9a&p=167) 
-2. STL
-
+1. [清华算协暑期培训 第一讲 C++梳理](https://www.bilibili.com/video/BV15d4y1U7HH/) 
+2. [黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难](https://www.bilibili.com/video/BV1et411b73Z/) 
 
 
 
@@ -262,12 +252,6 @@ Python：
 
 
 
-
-
-- [罗勇军<<算法竞赛>>配套题单 - Athanasy](https://www.luogu.com.cn/training/441063#information) 
-- [《算法竞赛进阶指南》打卡活动 - Acwing](https://www.acwing.com/activity/content/6/) 
-
-
 ## Bilibili
 
 [清华算协暑期培训](https://www.bilibili.com/video/BV15d4y1U7HH/) 
@@ -281,7 +265,9 @@ Python：
 
 **算法模板学习——**
 
-[算法竞赛模板库 by 灵茶山艾府](https://github.com/EndlessCheng/codeforces-go) 
+- [罗勇军<<算法竞赛>>配套题单 - Athanasy](https://www.luogu.com.cn/training/441063#information) 
+- [《算法竞赛进阶指南》打卡活动 - Acwing](https://www.acwing.com/activity/content/6/) 
+- [算法竞赛模板库 by 灵茶山艾府](https://github.com/EndlessCheng/codeforces-go) 
 
 ---
 
