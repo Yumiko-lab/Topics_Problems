@@ -271,9 +271,16 @@ Acwing：
 
 - [每日羊蹄](https://github.com/Yawn-Sean/Daily_CF_Problems/tree/main) 
 - [灵茶の试炼](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2) 
+- [算法竞赛模板库 by 灵茶山艾府](https://github.com/EndlessCheng/codeforces-go) 
 
 ---
 
+
+- [Codeforces 构造题训练 - [1700 - 1900]](https://codeforces.com/problemset?order=BY_SOLVED_DESC&tags=constructive+algorithms%2C1700-1900) 
+- [构造题专项训练 - Luogu](https://www.luogu.com.cn/training/14) 
+
+
+---
 
 CCF-CSP (0 ~ 23)：
 
@@ -328,13 +335,6 @@ SpeedStar 的题单：
 百度之星题单：
 
 - [2005年-2024年百度之星题集](https://www.matiji.net/exam/baiduzhixing) 
-
-
----
-
-
-
-- [构造题专项训练 - Luogu](https://www.luogu.com.cn/training/14) 
 
 
 
