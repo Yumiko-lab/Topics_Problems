@@ -256,35 +256,52 @@ C++ 语法：
 4. [Web应用课](https://www.acwing.com/activity/content/1150/) 
 
 
+Python：
+
+- [Python基础课](https://studio.youtube.com/playlist/PLZjK0Hj8Fi-18M4TD7cbiCzjtxqTLIe_6/videos) 
 
 
-[Python基础课](https://studio.youtube.com/playlist/PLZjK0Hj8Fi-18M4TD7cbiCzjtxqTLIe_6/videos) 
 
 
 
 - [罗勇军<<算法竞赛>>配套题单 - Athanasy](https://www.luogu.com.cn/training/441063#information) 
 - [《算法竞赛进阶指南》打卡活动 - Acwing](https://www.acwing.com/activity/content/6/) 
-- [USACO Training辅导课 - Acwing](https://www.acwing.com/activity/content/36/) 
-- [清华算协暑期培训](https://www.bilibili.com/video/BV15d4y1U7HH/) 
+
+
+## Bilibili
+
+[清华算协暑期培训](https://www.bilibili.com/video/BV15d4y1U7HH/) 
 
 
 
 # 待刷题单
 
-每日一题：
+---
 
-- [每日羊蹄](https://github.com/Yawn-Sean/Daily_CF_Problems/tree/main) 
-- [灵茶の试炼](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2) 
-- [算法竞赛模板库 by 灵茶山艾府](https://github.com/EndlessCheng/codeforces-go) 
+
+**算法模板学习——**
+
+[算法竞赛模板库 by 灵茶山艾府](https://github.com/EndlessCheng/codeforces-go) 
 
 ---
 
+**每日一题——**
+
+- [每日羊蹄](https://github.com/Yawn-Sean/Daily_CF_Problems/tree/main) 
+- [灵茶の试炼](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2) 
+
+---
+
+
+**构造题训练——**
 
 - [Codeforces 构造题训练 - [1700 - 1900]](https://codeforces.com/problemset?order=BY_SOLVED_DESC&tags=constructive+algorithms%2C1700-1900) 
 - [构造题专项训练 - Luogu](https://www.luogu.com.cn/training/14) 
 
 
 ---
+
+**CSP——**
 
 CCF-CSP (0 ~ 23)：
 
@@ -298,7 +315,7 @@ CSP-S (2003 - 2022)：
 
 ---
 
-
+**各路选手的题单——**
 
 李哥的构造题题单：
 
@@ -310,8 +327,6 @@ CSP-S (2003 - 2022)：
 
 - [人生必做题，让你成为见解独特的黑马选手](https://www.luogu.com.cn/training/597983) 
 
----
-
 
 
 某一个人の题单大全：
@@ -319,7 +334,6 @@ CSP-S (2003 - 2022)：
 - [某一个人の题单大全](https://zhuanlan.zhihu.com/p/716449304) 
 
 
----
 
 
 ExtractStars 的题单：
@@ -334,9 +348,7 @@ SpeedStar 的题单：
 ---
 
 
-
-
-百度之星题单：
+**百度之星题单——**
 
 - [2005年-2024年百度之星题集](https://www.matiji.net/exam/baiduzhixing) 
 
@@ -344,7 +356,7 @@ SpeedStar 的题单：
 
 ---
 
-DP 题单：
+**DP 题单——**
 
 - [新手动态规划合集 - Luogu](https://www.luogu.com.cn/training/1060) 
 - [背包问题（简单） - Luogu](https://www.luogu.com.cn/training/8917) 
