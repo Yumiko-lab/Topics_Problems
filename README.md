@@ -190,14 +190,10 @@ C++ 语法：
 
 # 算法学习
 
-[罗勇军<<算法竞赛>>配套题单 - Athanasy](https://www.luogu.com.cn/training/441063#information) 
-
-[《算法竞赛进阶指南》打卡活动 - Acwing](https://www.acwing.com/activity/content/6/) 
-
-[USACO Training辅导课 - Acwing](https://www.acwing.com/activity/content/36/) 
-
-
-[清华算协暑期培训](https://www.bilibili.com/video/BV15d4y1U7HH/) 
+- [罗勇军<<算法竞赛>>配套题单 - Athanasy](https://www.luogu.com.cn/training/441063#information) 
+- [《算法竞赛进阶指南》打卡活动 - Acwing](https://www.acwing.com/activity/content/6/) 
+- [USACO Training辅导课 - Acwing](https://www.acwing.com/activity/content/36/) 
+- [清华算协暑期培训](https://www.bilibili.com/video/BV15d4y1U7HH/) 
 
 
 
@@ -213,12 +209,12 @@ C++ 语法：
 
 CCF-CSP (0 ~ 23)：
 
-[CCF-CSP认证辅导课 - Acwing](https://www.acwing.com/activity/content/39/) 
+- [CCF-CSP认证辅导课 - Acwing](https://www.acwing.com/activity/content/39/) 
 
 
 CSP-S (2003 - 2022)：
 
-[CSP-S 辅导课 - Acwing](https://www.acwing.com/activity/content/3444/) 
+- [CSP-S 辅导课 - Acwing](https://www.acwing.com/activity/content/3444/) 
 
 
 ---
@@ -233,7 +229,7 @@ CSP-S (2003 - 2022)：
 
 李哥的人生必做题题单：
 
-[人生必做题，让你成为见解独特的黑马选手](https://www.luogu.com.cn/training/597983) 
+- [人生必做题，让你成为见解独特的黑马选手](https://www.luogu.com.cn/training/597983) 
 
 ---
 
@@ -241,7 +237,7 @@ CSP-S (2003 - 2022)：
 
 某一个人の题单大全：
 
-[某一个人の题单大全](https://zhuanlan.zhihu.com/p/716449304) 
+- [某一个人の题单大全](https://zhuanlan.zhihu.com/p/716449304) 
 
 
 ---
@@ -249,12 +245,12 @@ CSP-S (2003 - 2022)：
 
 ExtractStars 的题单：
 
-[ExtractStars](https://vjudge.net/user/ExtractStars) 
+- [ExtractStars](https://vjudge.net/user/ExtractStars) 
 
 
 SpeedStar 的题单：
 
-[SpeedStar - Acwing](https://www.acwing.com/user/myspace/blog/7340/) 
+- [SpeedStar - Acwing](https://www.acwing.com/user/myspace/blog/7340/) 
 
 ---
 
@@ -263,14 +259,14 @@ SpeedStar 的题单：
 
 百度之星题单：
 
-[2005年-2024年百度之星题集](https://www.matiji.net/exam/baiduzhixing) 
+- [2005年-2024年百度之星题集](https://www.matiji.net/exam/baiduzhixing) 
 
 
 ---
 
 
 
-[构造题专项训练 - Luogu](https://www.luogu.com.cn/training/14) 
+- [构造题专项训练 - Luogu](https://www.luogu.com.cn/training/14) 
 
 
 
@@ -278,27 +274,13 @@ SpeedStar 的题单：
 
 DP 题单：
 
-[新手动态规划合集 - Luogu](https://www.luogu.com.cn/training/1060) 
-
-[背包问题（简单） - Luogu](https://www.luogu.com.cn/training/8917) 
-
-[背包问题 - Luogu](https://www.luogu.com.cn/training/5197) 
-
-[xzy的树形dp题单 - Luogu](https://www.luogu.com.cn/training/11363) 
-
-
-
-[【动态规划】普及~省选的dp题 - Luogu](https://www.luogu.com.cn/training/1435) 
-
-[【动态规划】提高组的DP问候 - Luogu](https://www.luogu.com.cn/training/12927) 
-
-[面向tg选手的DP练习题 - Luogu](https://www.luogu.com.cn/training/1323) 
-
-
-[codeforces 2000左右的dp题 - Luogu](https://www.luogu.com.cn/training/3963) 
-
-[codeforces 2100左右的dp题 - Luogu](https://www.luogu.com.cn/training/3961) 
-
-[动态规划进阶 - Luogu](https://www.luogu.com.cn/training/3045) 
-
-
+- [新手动态规划合集 - Luogu](https://www.luogu.com.cn/training/1060) 
+- [背包问题（简单） - Luogu](https://www.luogu.com.cn/training/8917) 
+- [背包问题 - Luogu](https://www.luogu.com.cn/training/5197) 
+- [xzy的树形dp题单 - Luogu](https://www.luogu.com.cn/training/11363) 
+- [【动态规划】普及~省选的dp题 - Luogu](https://www.luogu.com.cn/training/1435) 
+- [【动态规划】提高组的DP问候 - Luogu](https://www.luogu.com.cn/training/12927) 
+- [面向tg选手的DP练习题 - Luogu](https://www.luogu.com.cn/training/1323) 
+- [codeforces 2000左右的dp题 - Luogu](https://www.luogu.com.cn/training/3963) 
+- [codeforces 2100左右的dp题 - Luogu](https://www.luogu.com.cn/training/3961) 
+- [动态规划进阶 - Luogu](https://www.luogu.com.cn/training/3045) 
