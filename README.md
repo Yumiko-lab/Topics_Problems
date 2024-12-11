@@ -203,6 +203,12 @@ C++ 语法：
 
 # 待刷题单
 
+每日一题：
+
+- [每日羊蹄](https://github.com/Yawn-Sean/Daily_CF_Problems/tree/main) 
+- [灵茶の试炼](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2) 
+
+---
 
 
 CCF-CSP (0 ~ 23)：
@@ -221,9 +227,8 @@ CSP-S (2003 - 2022)：
 
 李哥的构造题题单：
 
-[constructive marathon(div. 1)](https://codeforces.com/contests/412155) 
-
-[constructive marathon(div. 2)](https://codeforces.com/contests/413091) 
+- [constructive marathon(div. 1)](https://codeforces.com/contests/412155) 
+- [constructive marathon(div. 2)](https://codeforces.com/contests/413091) 
 
 
 李哥的人生必做题题单：
@@ -232,13 +237,6 @@ CSP-S (2003 - 2022)：
 
 ---
 
-
-灵茶山艾府每日一题 ( >= 2400 ：24 + 12 + 23 + 5)：
-
-[灵茶の试炼](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2) 
-
-
----
 
 
 某一个人の题单大全：
